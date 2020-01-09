@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用途" />
+      <item value="开放" />
+      <item value="开放用途" />
       <item value="定级级别" />
       <item value="定级名称" />
       <item value="责任人" />
