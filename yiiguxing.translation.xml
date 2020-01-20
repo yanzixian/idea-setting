@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaces the last element returned by {@link #next} or      * {@link #previous} with the specified element (optional operation).      * This call can be made only if neither {@link #remove} nor {@link      * #add} have been called after the last call to {@code next} or      * {@code previous}." />
       <item value="the array into which the elements of this collection are to be      *        stored, if it is big enough; otherwise, a new array of the same      *        runtime type is allocated for this purpose." />
       <item value="allocated " />
       <item value="stipulations" />
