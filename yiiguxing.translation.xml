@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pass it through" />
+      <item value="pass through" />
+      <item value="the backing collection" />
+      <item value="preserve the contracts" />
+      <item value="The returned collection does &lt;i&gt;not&lt;/i&gt; pass the hashCode and equals      * operations through to the backing collection" />
       <item value="Rotates the elements in the specified list by the specified distance." />
       <item value="induced by" />
       <item value="the specified source of      * randomness" />
