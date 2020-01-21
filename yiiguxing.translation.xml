@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a dynamically typesafe view of the specified collection" />
       <item value="pass it through" />
       <item value="pass through" />
       <item value="the backing collection" />
