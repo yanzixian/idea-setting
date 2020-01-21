@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the specified source of      * randomness" />
+      <item value="permute" />
+      <item value="permutes" />
       <item value="ascending order" />
       <item value="Suppresses default constructor, ensuring non-instantiability." />
       <item value="Replaces the last element returned by {@link #next} or      * {@link #previous} with the specified element (optional operation).      * This call can be made only if neither {@link #remove} nor {@link      * #add} have been called after the last call to {@code next} or      * {@code previous}." />
@@ -23,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
