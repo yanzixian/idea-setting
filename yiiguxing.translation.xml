@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自增" />
+      <item value="自加" />
       <item value="Returns a function that always returns its input argument." />
       <item value="Returns a composed function that first applies this function to      * its input, and then applies the {@code after} function to the result.      * If evaluation of either function throws an exception, it is relayed to      * the caller of the composed function." />
       <item value="Returns a composed function that first applies the {@code before}      * function to its input, and then applies this function to the result.      * If evaluation of either function throws an exception, it is relayed to      * the caller of the composed function." />
@@ -46,7 +48,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
