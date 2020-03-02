@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collection" />
+      <item value="collector" />
       <item value="Represents an operation that accepts a single input argument and returns no  * result. Unlike most other functional interfaces, {@code Consumer} is expected  * to operate via side-effects.  *" />
       <item value="operate via side-effects." />
       <item value="* Represents a supplier of results.  *  * &lt;p&gt;There is no requirement that a new or distinct result be returned each  * time the supplier is invoked.  *  * &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;/a&gt;  * whose functional method is {@link #get()}.  *  * @param &lt;T&gt; the type of results supplied by this supplier  *" />
@@ -49,8 +51,6 @@
       <item value="定级备案单元名称" />
       <item value="用途" />
       <item value="开放" />
-      <item value="开放用途" />
-      <item value="定级级别" />
     </histories>
     <option name="languageScores">
       <map>
