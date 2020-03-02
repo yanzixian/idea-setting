@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Represents a supplier of results.  *  * &lt;p&gt;There is no requirement that a new or distinct result be returned each  * time the supplier is invoked.  *  * &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;/a&gt;  * whose functional method is {@link #get()}.  *  * @param &lt;T&gt; the type of results supplied by this supplier  *" />
+      <item value="Represents a supplier of results." />
       <item value="&lt;li&gt;It is &lt;i&gt;consistent&lt;/i&gt;: for any non-null reference values      *     {@code x} and {@code y}, multiple invocations of      *     {@code x.equals(y)} consistently return {@code true}      *     or consistently return {@code false}, provided no      *     information used in {@code equals} comparisons on the      *     objects is modified." />
       <item value="reflexive" />
       <item value="Returns a predicate that tests if two arguments are equal according      * to {@link Objects#equals(Object, Object)}." />
@@ -49,8 +51,6 @@
       <item value="定级级别" />
       <item value="定级名称" />
       <item value="责任人" />
-      <item value="面向对象" />
-      <item value="主机资产" />
     </histories>
     <option name="languageScores">
       <map>
