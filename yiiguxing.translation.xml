@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;li&gt;It is &lt;i&gt;consistent&lt;/i&gt;: for any non-null reference values      *     {@code x} and {@code y}, multiple invocations of      *     {@code x.equals(y)} consistently return {@code true}      *     or consistently return {@code false}, provided no      *     information used in {@code equals} comparisons on the      *     objects is modified." />
+      <item value="reflexive" />
       <item value="Returns a predicate that tests if two arguments are equal according      * to {@link Objects#equals(Object, Object)}." />
       <item value=" Returns a predicate that represents the logical negation of this      * predicate." />
       <item value="Returns a composed predicate that represents a short-circuiting logical      * AND of this predicate and another.  When evaluating the composed      * predicate, if this predicate is {@code false}, then the {@code other}      * predicate is not evaluated." />
@@ -49,8 +51,6 @@
       <item value="责任人" />
       <item value="面向对象" />
       <item value="主机资产" />
-      <item value="角色与菜单对应关系" />
-      <item value="@Transactional" />
     </histories>
     <option name="languageScores">
       <map>
