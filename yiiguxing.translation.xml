@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A function that accepts two partial results and merges them.  The      * combiner function may fold state from one argument into the other and      * return that, or may return a new result container." />
+      <item value="A function that folds a value into a mutable result container." />
+      <item value="mutable" />
       <item value="图床" />
       <item value="collection" />
       <item value="collector" />
@@ -48,13 +51,10 @@
       <item value="Replaces the last element returned by {@link #next} or      * {@link #previous} with the specified element (optional operation).      * This call can be made only if neither {@link #remove} nor {@link      * #add} have been called after the last call to {@code next} or      * {@code previous}." />
       <item value="the array into which the elements of this collection are to be      *        stored, if it is big enough; otherwise, a new array of the same      *        runtime type is allocated for this purpose." />
       <item value="allocated " />
-      <item value="stipulations" />
-      <item value="定级备案单元名称" />
-      <item value="用途" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="7" />
       </map>
     </option>
