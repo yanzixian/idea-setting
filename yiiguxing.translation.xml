@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="imposes" />
+      <item value="This interface imposes a total ordering on the objects of each class that * implements it. This ordering is referred to as the class's &lt;i&gt;natural * ordering&lt;/i&gt;, and the class's &lt;tt&gt;compareTo&lt;/tt&gt; method is referred to as * its &lt;i&gt;natural comparison method&lt;/i&gt;.&lt;p&gt;" />
       <item value="accumulates " />
       <item value="A function that accepts two partial results and merges them.  The      * combiner function may fold state from one argument into the other and      * return that, or may return a new result container." />
       <item value="A function that folds a value into a mutable result container." />
@@ -49,13 +51,11 @@
       <item value="permutes" />
       <item value="ascending order" />
       <item value="Suppresses default constructor, ensuring non-instantiability." />
-      <item value="Replaces the last element returned by {@link #next} or      * {@link #previous} with the specified element (optional operation).      * This call can be made only if neither {@link #remove} nor {@link      * #add} have been called after the last call to {@code next} or      * {@code previous}." />
-      <item value="the array into which the elements of this collection are to be      *        stored, if it is big enough; otherwise, a new array of the same      *        runtime type is allocated for this purpose." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
