@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Changes to      * the returned list &quot;write through&quot; to the array" />
       <item value="backed by the specified array" />
       <item value="impose" />
       <item value="imposr" />
@@ -50,7 +51,6 @@
       <item value="(immutable" />
       <item value="enumeration" />
       <item value="Returns a dynamically typesafe view of the specified collection" />
-      <item value="pass it through" />
     </histories>
     <option name="languageScores">
       <map>
