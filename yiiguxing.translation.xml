@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note that &lt;tt&gt;toArray(new Object[0])&lt;/tt&gt; is identical in function to      * &lt;tt&gt;toArray()&lt;/tt&gt;." />
+      <item value="The returned array will be &quot;safe&quot; in that no references to it are      * maintained by this list.  (In other words, this method must allocate      * a new array).  The caller is thus free to modify the returned array." />
       <item value="Changes to      * the returned list &quot;write through&quot; to the array" />
       <item value="backed by the specified array" />
       <item value="impose" />
@@ -49,8 +51,6 @@
       <item value="invoked" />
       <item value="模板下载" />
       <item value="(immutable" />
-      <item value="enumeration" />
-      <item value="Returns a dynamically typesafe view of the specified collection" />
     </histories>
     <option name="languageScores">
       <map>
