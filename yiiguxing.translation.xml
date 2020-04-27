@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interoperability" />
+      <item value="concatenation" />
+      <item value="Because String objects are immutable they can be shared." />
+      <item value="is equivalent to:" />
       <item value="mutable" />
       <item value="Strings are constant" />
       <item value="trings are constant" />
@@ -47,15 +51,11 @@
       <item value="Returns a function that always returns its input argument." />
       <item value="Returns a composed function that first applies this function to      * its input, and then applies the {@code after} function to the result.      * If evaluation of either function throws an exception, it is relayed to      * the caller of the composed function." />
       <item value="Returns a composed function that first applies the {@code before}      * function to its input, and then applies this function to the result.      * If evaluation of either function throws an exception, it is relayed to      * the caller of the composed function." />
-      <item value="deferred" />
-      <item value="eturns 0 if the arguments are identical and {@code      * c.compare(a, b)} otherwise." />
-      <item value="refer" />
-      <item value="reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
